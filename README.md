@@ -1,6 +1,5 @@
-# Primary Use case:
- - monthly/weekly
+## Installation
 
-# Admin:
- - Edit zone leaders/zone details/resp data related to wipro
- - 
+### Android
+
+- [Android App](https://github.com/a-mythh/Fixed-Point-Adherence/raw/amit-branch/installers/Fixed%20Point%20Adherence.apk)
